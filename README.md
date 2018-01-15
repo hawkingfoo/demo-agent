@@ -11,3 +11,5 @@
 其中模块 `first-agent` 为文章1 的代码，测试代码在其test中。
 
 其中模块 `first-instrument` 为文章2 的代码，测试代码在其test中。
+
+其中模块 `first-bytebuddy` 为文章3 的代码，测试代码在其test中。
