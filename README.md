@@ -8,8 +8,10 @@
 
 4: [Java字节码4-使用Java-Agent实现一个JVM监控工具](http://blog.csdn.net/f59130/article/details/78733699)
 
-其中模块 `first-agent` 为文章1 的代码，测试代码在其test中。
+其中模块 `first-agent` 为文章1 的代码，测试代码在其test中。运行时加上 VM options。
 
-其中模块 `first-instrument` 为文章2 的代码，测试代码在其test中。
+其中模块 `first-instrument` 为文章2 的代码，测试代码在其test中。运行时加上 VM options。
 
-其中模块 `first-bytebuddy` 为文章3 的代码，测试代码在其test中。
+其中模块 `first-bytebuddy` 为文章3 的代码，测试代码在其test中。运行时加上 VM options。
+
+其中模块 `first-jvm-hook` 为文章4 的代码，测试代码在其test中。运行时加上 VM options。

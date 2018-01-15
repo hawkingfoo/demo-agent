@@ -9,7 +9,7 @@ public class InstrumentTest {
         System.out.println("this is fun 2.");
     }
 
-    // add VM options: -javaagent:./first-agent/target/my-agent.jar=first
+    // add VM options: -javaagent:./first-instrument/target/my-agent.jar=first
     public static void main(String[] args) {
         InstrumentTest test = new InstrumentTest();
         test.fun1();

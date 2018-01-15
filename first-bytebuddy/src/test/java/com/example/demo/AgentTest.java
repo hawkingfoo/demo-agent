@@ -11,7 +11,6 @@ public class AgentTest {
         Thread.sleep(500);
     }
 
-    //
     // add VM options: -javaagent:./first-bytebuddy/target/my-agent.jar
     public static void main(String[] args) throws Exception {
         System.out.println(System.getProperty("user.dir"));

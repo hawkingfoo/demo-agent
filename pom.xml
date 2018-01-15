@@ -11,6 +11,8 @@
     <modules>
         <module>first-agent</module>
         <module>first-bytebuddy</module>
+        <module>first-instrument</module>
+        <module>first-jvm-hook</module>
     </modules>
 
 </project>
